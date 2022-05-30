@@ -1,0 +1,15 @@
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\bin\Debug\net6.0\C-sharp-tasks.exe
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\bin\Debug\net6.0\C-sharp-tasks.deps.json
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\bin\Debug\net6.0\C-sharp-tasks.runtimeconfig.json
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\bin\Debug\net6.0\C-sharp-tasks.dll
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\bin\Debug\net6.0\C-sharp-tasks.pdb
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.csproj.AssemblyReference.cache
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.AssemblyInfoInputs.cache
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.AssemblyInfo.cs
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.csproj.CoreCompileInputs.cache
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.dll
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\refint\C-sharp-tasks.dll
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.pdb
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\C-sharp-tasks.genruntimeconfig.cache
+E:\Users\Fazrin\RiderProjects\C-sharp-tasks\obj\Debug\net6.0\ref\C-sharp-tasks.dll

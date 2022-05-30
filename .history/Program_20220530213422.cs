@@ -46,7 +46,7 @@ else
     }
     else
     {
-        WriteLine("{0}/{1}/{2}", month, day, year);
+        WriteLine("{0} {1}, {2}", month, day, year);
     }
 }
 

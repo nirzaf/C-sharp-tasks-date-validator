@@ -35,7 +35,7 @@ else if(month==4 || month==6 || month==9 || month==11)
     }
     else
     {
-        WriteLine("{0}/{1}/{2}", month, day, year);
+        WriteLine("{0} {1}, {2}", month, day, year);
     }
 }
 else
@@ -46,7 +46,7 @@ else
     }
     else
     {
-        WriteLine("{0}/{1}/{2}", month, day, year);
+        WriteLine("{0} {1}, {2}", month, day, year);
     }
 }
 
